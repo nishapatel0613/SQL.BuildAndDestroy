@@ -1,0 +1,1 @@
+UPDATE Students set city = "Edinburgh" where Country = "Scotland";

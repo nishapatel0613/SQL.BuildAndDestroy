@@ -1,0 +1,1 @@
+select * from Students where CITY = "Philadelphia" OR CITY = "Trenton";
